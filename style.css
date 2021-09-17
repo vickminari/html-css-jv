@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(216, 215, 155);
+}
+
+p {
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: oblique;
+}
+
+img {
+    width: 35rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    width: 50%;
+    text-align: center;
+}
+
+.final {
+    width: 80%;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#imagem_conteudo {
+    width: 50rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#apresentar {
+    font-family: 'Times New Roman', Times, serif;
+}
